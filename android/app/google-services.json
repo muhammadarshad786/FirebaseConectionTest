@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407510011196",
+    "project_id": "tryconnect-44b49",
+    "storage_bucket": "tryconnect-44b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407510011196:android:3c38e52f9624f7f2cca239",
+        "android_client_info": {
+          "package_name": "com.example.connections"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD35XRunDsryjkXdOnfxaBPbRnSpuzkK5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
